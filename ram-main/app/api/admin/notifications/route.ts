@@ -1,6 +1,6 @@
 import { type NextRequest, NextResponse } from "next/server"
 
-const ADMIN_PHONE = "+91 9876543210" // Replace with your actual phone number
+const ADMIN_PHONE = "+91 7416558069" // Replace with your actual phone number
 
 export async function POST(request: NextRequest) {
   try {
