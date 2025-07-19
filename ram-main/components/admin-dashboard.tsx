@@ -254,4 +254,4 @@ export default function AdminDashboard({ isOpen, onClose }: AdminDashboardProps)
   )
 }
 
-const ADMIN_PHONE = "+91 9876543210" // This should match the phone number in your API
+const ADMIN_PHONE = "+91 7416558069" // This should match the phone number in your API
